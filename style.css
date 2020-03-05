@@ -43,7 +43,6 @@ h3 {
 
 h4 {
   font-size: 20px;
-  color: #FFF;
   text-transform: uppercase;
   text-align: center;
   font-weight: 200;
@@ -73,3 +72,13 @@ h5 {
   justify-content: space-around;
   margin-bottom: 50px;
 }
+
+.produktionsland {
+  display:flex; 
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 50px; 
+  margin-left: 0;
+  height: 500px;
+}
+
