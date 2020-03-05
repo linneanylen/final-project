@@ -11,45 +11,46 @@ header {
 }
 
 header img {
-  max-width: 10%; /*change*/
+  max-width: 10%; 
   height: auto;
 }
 
 h1 {
-  font-size: 50px; /*change*/
+  font-size: 30px; /*change*/
   margin-bottom: 0;
   font-weight: 500;
-  margin-top: 50px; /*change*/
+  margin-top: 50px; 
 }
 
 h2 {
-  font-size: 15px;
+  font-size: 10px; /*change*/
   font-style: italic;
   font-weight: 200;
 }
 
 .KPI {
   display:flex;
+  flex-direction: row; /*change*/
   flex-wrap: wrap;
   justify-content: space-around;
   margin-bottom: 50px;
 }
 
 h3 {
-  font-size: 15px; /*change*/
+  font-size: 25px; /*change*/
   text-transform: uppercase;
   text-align: center;
 }
 
 h4 {
-  font-size: 10px;  /*change*/
+  font-size: 20px;  /*change*/
   text-transform: uppercase;
   text-align: center;
   font-weight: 200;
 }
 
 h5 {
-  font-size: 40px;
+  font-size: 30px;  /*change*/
   color: #000000;
   text-transform: uppercase;
   text-align: center;
@@ -70,7 +71,7 @@ h5 {
   display:flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  background-color: #D3D3D3;
+  background-image: url("design/Bio4.jpg");
   padding-bottom: 20px;
   color: #FFF;
 }
@@ -84,21 +85,21 @@ h5 {
 }
 
 .topp-ett h4 {
-  font-size: 10px; /*change*/
+  font-size: 18px; /*change*/ 
   text-transform: uppercase;
   text-align: center;
-  font-weight: 200; 
+  font-weight: 200; /*change*/ 
   margin-bottom: 0;
   padding-bottom: 0;
   font-family: 'Montserrat', sans-serif;
 }
 
 .topp-ett h3 {
-  font-weight: 400;
+  font-weight: 600; /*change*/ 
   font-family: 'Montserrat', sans-serif;
   margin-bottom: 0;
   padding-bottom: 0;
-  font-size: 15px; /*change*/
+  font-size: 22px; /*change*/
   text-transform: uppercase;
   text-align: center;
 }
