@@ -59,9 +59,17 @@ h5 {
 }
 
 .BIOTOPPEN {
+  display:flex; 
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 50px; 
+  margin-left: 0;
+  height: 800px;
+}
+
+.topp-ett {
   display:flex;
   flex-wrap: wrap;
   justify-content: space-around;
   margin-bottom: 50px;
 }
-
