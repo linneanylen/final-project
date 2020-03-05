@@ -1,7 +1,7 @@
 
 
 header {
-  background-image: url("design/Bio4.jpg");
+  background-image: url("Bio4.jpg");
   overflow: hidden;
   position: relative;
   text-align: center;
@@ -71,7 +71,7 @@ h5 {
   display:flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  background-image: url("design/Bio4.jpg");
+  background-image: url("Bio4.jpg");
   padding-bottom: 20px;
   color: #FFF;
 }
