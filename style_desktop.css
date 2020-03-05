@@ -11,15 +11,15 @@ header {
 }
 
 header img {
-  max-width: 10%; /*change*/
+  max-width: 50%;
   height: auto;
 }
 
 h1 {
-  font-size: 50px; /*change*/
+  font-size: 80px;
   margin-bottom: 0;
   font-weight: 500;
-  margin-top: 50px; /*change*/
+  margin-top: 200px;
 }
 
 h2 {
@@ -36,13 +36,13 @@ h2 {
 }
 
 h3 {
-  font-size: 15px; /*change*/
+  font-size: 30px;
   text-transform: uppercase;
   text-align: center;
 }
 
 h4 {
-  font-size: 10px;  /*change*/
+  font-size: 20px;
   text-transform: uppercase;
   text-align: center;
   font-weight: 200;
@@ -84,10 +84,10 @@ h5 {
 }
 
 .topp-ett h4 {
-  font-size: 10px; /*change*/
+  font-size: 20px;
   text-transform: uppercase;
   text-align: center;
-  font-weight: 200; 
+  font-weight: 200;
   margin-bottom: 0;
   padding-bottom: 0;
   font-family: 'Montserrat', sans-serif;
@@ -98,7 +98,7 @@ h5 {
   font-family: 'Montserrat', sans-serif;
   margin-bottom: 0;
   padding-bottom: 0;
-  font-size: 15px; /*change*/
+  font-size: 30px;
   text-transform: uppercase;
   text-align: center;
 }
